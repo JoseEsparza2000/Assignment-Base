@@ -32,3 +32,15 @@ h3{
     color: white;
     text-align: center;
 }
+.address{
+    font-style: italic;
+}
+.name{
+    font-style: italic;
+}
+.zipcode{
+    font-style: italic;
+}
+.restaurant{
+    font-weight: bold;
+}
